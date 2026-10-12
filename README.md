@@ -1,4 +1,4 @@
-# vibdet
+# VibDet
 
 A small vibration detector for Android phones, written in Python and run in Termux.
 
